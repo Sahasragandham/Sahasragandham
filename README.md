@@ -14,7 +14,7 @@ I am a passionate learner focused on building real-world projects using Python a
 I love solving problems, improving daily, and turning ideas into practical applications.
 
 Currently working on improving:
-- Data Structures & Problem Solving
+- Data Structures(Basic) & Problem Solving
 - Machine Learning Concepts
 - Backend Development
 - Real-world Project Building
@@ -26,7 +26,7 @@ Currently working on improving:
 - 🐍 Python
 - 📊 NumPy, Pandas (Learning)
 - 🤖 Machine Learning Basics
-- 🗄 SQL & MongoDB
+- 🗄 SQL 
 - 🌐 Git & GitHub
 
 ---
@@ -61,6 +61,7 @@ Gmail: gandhamsahasra73@gmail.com
 ---
 
 ⭐ "Consistency beats motivation."
+
 
 
 
