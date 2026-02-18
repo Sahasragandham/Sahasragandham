@@ -52,9 +52,13 @@ More projects coming soon 🚀
 ## 📫 Connect With Me
 
 GitHub: https://github.com/Sahasragandham
+Linkedin: www.linkedin.com/in/
+sahasra-gandham-81221335a
+
 
 ---
 
 ⭐ "Consistency beats motivation."
+
 
 
