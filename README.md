@@ -55,10 +55,13 @@ GitHub: https://github.com/Sahasragandham
 
 Linkedin: www.linkedin.com/in/sahasra-gandham-81221335a
 
+Gmail: gandhamsahasra73@gmail.com
+
 
 ---
 
 ⭐ "Consistency beats motivation."
+
 
 
 
